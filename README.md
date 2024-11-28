@@ -13,7 +13,7 @@ Uma página de login interativa e moderna, com animações suaves e opções de 
 
 ![Preview da Página de Login](/assets/GIF-login-page.gif)
 
-Acesse o projeto [aqui](https://renezsx.github.io/animated-login-page) <br><br>
+Acesse o projeto [aqui](https://github.com/RenezSX/animated-login-page.git) <br><br>
 
 # 🌟 Recursos
 
